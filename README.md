@@ -1,5 +1,6 @@
 # latexで打消し線を使う方法
 -下記のスタイルファイルをインストールした後,.texファイルにこれらの記述を追加すればOK
+
 \usepackage{color}    
 
 \usepackage{jumoline} 

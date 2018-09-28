@@ -8,7 +8,7 @@
 \usepackage{proofread}
 
 # .styファイルの追加方法
-- http://www.kagami.org/diary/2005-01-30-1.htmlを参考に処理を進める
+- http://www.kagami.org/diary/2005-01-30-1.html を参考に処理を進める
 - 必要なスタイルファイルは2つ**jumoline.sty**と**proofread.sty**
 -   http://sils.shoin.ac.jp/~gunji/CR/Kyozai/misc/jumoline/jumoline.sty
 -   http://www.kagami.org/diary/data/proofread/proofread.sty

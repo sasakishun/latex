@@ -15,12 +15,10 @@
 - スタイルファイル(.sty)を```C:\w32tex\share\texmf-dist\tex\platex\base```に移動
 - powershellを起動し```$mktexlsr```を入力
 
-#TexWorksでpbibtex(日本語bibtexの読み込みに必要)の使い方
-- https://qiita.com/takahiro_itazuri/items/d34a66cf6c69032a4f26 を参考に
-
 # latexを使う方法（WindowsでTexWorksを使う場合）
 - https://did2memo.net/2016/04/24/easy-latex-install-windows-10-2016-04/ を参考に処理を進める
 - latexの最新版はhttps://www.ms.u-tokyo.ac.jp/~abenori/soft/abtexinst.html
 から取得
 
-
+# TexWorksでpbibtex(日本語bibtexの読み込みに必要)の使い方
+- https://qiita.com/takahiro_itazuri/items/d34a66cf6c69032a4f26 を参考に

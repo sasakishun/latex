@@ -16,4 +16,4 @@
 - powershellを起動し```$mktexlsr```を入力
 
 #TexWorksでpbibtex(日本語bibtexの読み込みに必要)の使い方
-- https://qiita.com/takahiro_itazuri/items/d34a66cf6c69032a4f26を参考に
+- https://qiita.com/takahiro_itazuri/items/d34a66cf6c69032a4f26 を参考に

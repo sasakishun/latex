@@ -1,11 +1,12 @@
-# latex‚Å‘ÅÁ‚µü‚ğg‚¤•û–@
-- ```https://did2memo.net/2016/04/24/easy-latex-install-windows-10-2016-04/``` ‚ğQl‚Éˆ—‚ği‚ß‚é
-- latex‚ÌÅV”Å‚Í```https://www.ms.u-tokyo.ac.jp/~abenori/soft/abtexinst.html```
-‚©‚çæ“¾
+# latexã§æ‰“æ¶ˆã—ç·šã‚’ä½¿ã†æ–¹æ³•
+- ```https://did2memo.net/2016/04/24/easy-latex-install-windows-10-2016-04/``` ã‚’å‚è€ƒã«å‡¦ç†ã‚’é€²ã‚ã‚‹
+- latexã®æœ€æ–°ç‰ˆã¯```https://www.ms.u-tokyo.ac.jp/~abenori/soft/abtexinst.html```
+ã‹ã‚‰å–å¾—
 
--\usepackage{color}    
+\usepackage{color}    
 \usepackage{jumoline} 
 \usepackage{proofread}
-##.styƒtƒ@ƒCƒ‹‚Ì’Ç‰Á•û–@
-ƒXƒ^ƒCƒ‹ƒtƒ@ƒCƒ‹(.sty)‚ğ /usr/share/texmf-dist/tex/platex/
-$mktexlsr
+
+# .styãƒ•ã‚¡ã‚¤ãƒ«ã®è¿½åŠ æ–¹æ³•
+- ã‚¹ã‚¿ã‚¤ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«(.sty)ã‚’```C:\w32tex\share\texmf-dist\tex\platex\base```ã«ç§»å‹•
+- powershellã‚’èµ·å‹•ã—```$mktexlsr```ã‚’å…¥åŠ›
